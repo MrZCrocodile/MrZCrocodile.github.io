@@ -1,6 +1,6 @@
 ## DevOps
 
-| CISSP Glossary   | AWS Amazon   |
+| CISSP Glossary - Studendt Guide   | DevOps on AWS   |
 |------------|------------|
 | An approach based on lean and agile principles in which business owners and the development, operations, and quality assurance departments collaborate.| DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity|
 | ChatGPT: แนวทางที่อิงตามหลักการ Lean และ Agile ซึ่งเจ้าของธุรกิจและแผนกพัฒนา, ปฏิบัติการ, และประกันคุณภาพทำงานร่วมกัน   | ChatGPT: DevOps คือการผสมผสานระหว่างปรัชญาทางวัฒนธรรม แนวปฏิบัติ และเครื่องมือต่าง ๆ ที่ช่วยเพิ่มความสามารถขององค์กรในการส่งมอบแอปพลิเคชันและบริการด้วยความรวดเร็ว    |
