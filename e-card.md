@@ -1,3 +1,9 @@
 # Have a holly, jolly Christmas
 
-![christmas](img/ecard.png)
+![christmas](picture/ecard.png)
+
+# Tools
+- Canva
+- Steganography
+
+[Back](README.md)
