@@ -1,8 +1,8 @@
-# Have a holly, jolly Christmas
+# ꕥ Have a holly, jolly Christmas ꕥ
 
 ![christmas](picture/ecard.png)
 
-# Tools
+### ✎ Tools ✎
 - Canva
 - Steganography
 
