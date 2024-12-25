@@ -4,4 +4,8 @@
   - Japanese manga lover
   - Book collector
   - Old songs listener
+
+**☀ Works Station**
+- [DevOps](devops.md)
+- [Christmas card](e-card.md)
 ## ————— ୨୧ ————— 
