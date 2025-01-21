@@ -8,4 +8,6 @@
 **☀ Works Station**
 - [DevOps](devops.md)
 - [Christmas card](e-card.md)
+- [Timeliness](timeliness.md)
+- [NCSA Boardgame](ncsa.md)
 ## ————— ୨୧ ————— 
