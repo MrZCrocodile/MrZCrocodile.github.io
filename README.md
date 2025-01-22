@@ -9,5 +9,5 @@
 - [DevOps](devops.md)
 - [Christmas card](e-card.md)
 - [Timeliness](timeliness.md)
-- [NCSA Boardgame](ncsa.md)
+- [NCSA Boardgame](boardgame.md)
 ## ————— ୨୧ ————— 
